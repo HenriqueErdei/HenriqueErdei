@@ -2,7 +2,7 @@
 
 > Focando em conhecimento para FullStack com tecnologias tendentes no mercado.
 
-🔭 Atualmente contribuindo em Projetos na SPA Labs.
+🔭 Atualmente contribuindo em Projetos na SPA.
 
 💬 E-mail para contato: contato@henriqueerdei.com.br
 
