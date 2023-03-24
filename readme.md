@@ -4,7 +4,7 @@
 
 🔭 Atualmente contribuindo em Projetos na SPA Labs.
 
-💬 Entre em Contato através do WhatsApp: (11) 95211-6313.
+💬 E-mail para contato: contato@henriqueerdei.com.br
 
 ----
 
