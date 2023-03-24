@@ -1,4 +1,4 @@
-##Olá, meu nome é <strong>Henrique Erdei!</strong>
+## Olá, meu nome é <strong>Henrique Erdei!</strong>
 
 > Focando em conhecimento para FullStack com tecnologias tendentes no mercado.
 
