@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 🗿🍷 Olá, meu nome é <strong>Henrique Erdei!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Focando em conhecimento para FullStack com tecnologias tendentes no mercado.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente contribuindo em Projetos na SPA Labs.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Entre em Contato através do WhatsApp: (11) 95211-6313.
 
 ----
 
@@ -26,4 +26,9 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueerdei&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueerdei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
