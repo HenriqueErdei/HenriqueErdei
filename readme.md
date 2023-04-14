@@ -7,7 +7,7 @@
 💬 E-mail para contato: henriqueerdeidev@gmail.com
 
 
-## ⭐ Informações sobre minha conta GitHub ⭐
+## 💫 Informações sobre minha conta GitHub ✔
 
 <div>
 <a href="https://github.com/HenriqueErdei">
