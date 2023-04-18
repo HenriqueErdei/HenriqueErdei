@@ -15,7 +15,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueerdei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
+  <div>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+  </div>
