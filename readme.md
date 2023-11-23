@@ -1,8 +1,7 @@
 ## Olá, meu nome é <strong>Henrique Erdei!</strong>
 
-> Focando em conhecimento para desenvolvimento FullStack com tecnologias tendentes no mercado.
 
-🔭 Atualmente contribuindo em Projetos na SPA.
+🔭 Atualmente estudando Tecnologias tendentes no mercado.
 
 💬 E-mail para contato: henriqueerdeidev@gmail.com
 
