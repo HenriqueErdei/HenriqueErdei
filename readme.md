@@ -9,7 +9,7 @@
 ## 🌟 Informações sobre minha conta GitHub ✔
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueerdei&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=FF0110" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueerdei&layout=compact&hide_border=true&title_color=FF0110&text_color=FF0110&bg_color=FFFFFF" />
 </div>
 
   
