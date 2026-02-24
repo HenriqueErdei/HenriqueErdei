@@ -3,6 +3,7 @@
 ## 🌟 Information about my GitHub account ✔
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueerdei&layout=compact&hide_border=true&title_color=FF0110&text_color=FF0110&bg_color=FFFFFF" />
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
