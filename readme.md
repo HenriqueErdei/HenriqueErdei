@@ -10,21 +10,37 @@ Focused on modern TypeScript ecosystems, clean architecture, and high-performanc
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/react/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vite/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/express/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/000000" height="36" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/000000" height="36" />
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/react" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/typescript" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/vite" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/express" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/postgresql" height="32"/>
+</span>
+
+<span style="background:#ffffff; padding:12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://cdn.simpleicons.org/python" height="32"/>
+</span>
 
 </div>
 
