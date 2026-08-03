@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/100204539?v=4" width="120" style="border-radius: 50%;">
+<img src="https://i.ibb.co/mC4W948c/Chat-GPT-Image-Aug-3-2026-10-02-10-AM.png" width="100%" style="border-radius: 20%;">
 
 <h1>Henrique Erdei</h1>
 
@@ -11,7 +11,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=HenriqueErdei&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/HenriqueErdei/HenriqueErdei?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/location-São%20Paulo%2C%20Brasil-000?style=for-the-badge"/>
 
