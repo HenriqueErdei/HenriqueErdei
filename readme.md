@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://i.ibb.co/mC4W948c/Chat-GPT-Image-Aug-3-2026-10-02-10-AM.png" width="100%" style="border-radius: 20%;">
-
+ 
 <h1>Henrique Erdei</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+Data+Specialist;TypeScript+%7C+React+%7C+Node.js;React+Native+%7C+PostgreSQL"/>
