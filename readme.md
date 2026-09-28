@@ -9,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<img src="https://img.shields.io/github/commit-activity/y/HenriqueErdei/HenriqueErdei?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/location-São%20Paulo%2C%20Brasil-000?style=for-the-badge"/>
 
 </div>
